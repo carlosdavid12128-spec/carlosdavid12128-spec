@@ -11,8 +11,11 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-
 - 🌱 I’m a mechatronics engineer and recently graduated from a QA bootcamp with TripleTen
+
+- 🤝 Open to collaborating on projects where I can contribute, learn, and grow in the IT field.
+  
+- 🚀 My goal is to help build more reliable and high-quality software products.
 
 - 📫 How to reach me **carlosdavid1218@gmail.com**
 
