@@ -62,6 +62,11 @@
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+      <br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosdavid12128-spec&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="carlosdavid12128-spec" /></p>
+
 
 [carlosdavid12128-spec](https://github.com/carlosdavid12128-spec)
 
