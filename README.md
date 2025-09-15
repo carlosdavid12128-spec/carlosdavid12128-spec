@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **carlosdavid1218@gmail.com**
 
-- ⚡ Fun fact :- Im Batman (true).
+- ⚡ Fun fact :- F1 addict 🏎️🏁.
 
 <br>
 
